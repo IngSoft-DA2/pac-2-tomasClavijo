@@ -1,0 +1,4 @@
+/* Make the brand white only when its route is active; otherwise keep default grey from Bootstrap */
+.navbar-dark .navbar-brand.active {
+  color: #fff !important;
+}
